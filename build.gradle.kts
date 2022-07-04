@@ -18,6 +18,7 @@ dependencies {
     implementation(kotlin("reflect"))
 
     paperDevBundle("1.19-R0.1-SNAPSHOT")
+    implementation("io.github.monun:kommand-api:2.12.0")
 }
 
 val pluginName = rootProject.name.split('-').joinToString("") { it.capitalize() }
