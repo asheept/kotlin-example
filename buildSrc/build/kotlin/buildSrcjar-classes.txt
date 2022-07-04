@@ -1,0 +1,1 @@
+C:\Users\h2art\IdeaProjects\kotlin-sample\buildSrc\build\classes\kotlin\main\Dependency$Kotlin.class;C:\Users\h2art\IdeaProjects\kotlin-sample\buildSrc\build\classes\kotlin\main\Dependency.class
